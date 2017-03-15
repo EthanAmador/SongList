@@ -1,0 +1,6 @@
+c:\Users\ethan\documents\visual studio 2015\Projects\SongList\Core.DataBase\bin\Debug\Core.DataBase.dll
+c:\Users\ethan\documents\visual studio 2015\Projects\SongList\Core.DataBase\bin\Debug\Core.DataBase.pdb
+c:\Users\ethan\documents\visual studio 2015\Projects\SongList\Core.DataBase\bin\Debug\Dapper.dll
+c:\Users\ethan\documents\visual studio 2015\Projects\SongList\Core.DataBase\bin\Debug\Dapper.xml
+c:\Users\ethan\documents\visual studio 2015\Projects\SongList\Core.DataBase\obj\Debug\Core.DataBase.dll
+c:\Users\ethan\documents\visual studio 2015\Projects\SongList\Core.DataBase\obj\Debug\Core.DataBase.pdb
